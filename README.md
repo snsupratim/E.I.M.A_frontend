@@ -2,7 +2,22 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run the development server:
+### Clone the Repository:
+
+First, clone this repository using the following command:
+
+```bash
+git clone <repository-link>
+cd <repository-name>
+```
+
+Second , Install Dependencies:
+
+```bash
+npm install --legacy-peer-deps
+```
+
+Third, run the development server:
 
 ```bash
 npm run dev
@@ -15,6 +30,8 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Contribute on frontend only for invited members:
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
